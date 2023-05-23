@@ -6,6 +6,7 @@
 <jsp:include page="head.jsp" />
 <body>
 <h1>Test PRoject</h1>
+<h1>Test PRoject 2nd Title</h1>
 	<form action="${Action}" method="post">
 		<div class="container">
 			<div class="row bg-success p-2 text-light">
